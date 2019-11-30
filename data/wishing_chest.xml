@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<wishing_chest>
+  <wish date='20.12.2019'>
+     изучть Ruby on Rails 
+  </wish>
+  <wish date='30.11.2019'>
+    Протестировать работу программы "Сундук желаний"
+  </wish>
+</wishing_chest>
